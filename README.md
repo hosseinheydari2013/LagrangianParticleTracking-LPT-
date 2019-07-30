@@ -7,6 +7,5 @@ Note that SFML libraries are not added into this repo because I was not sure whe
 
 A sample Cmake instruction file (CMakeLists.txt) is provided for the users using it already. 
 
-** Contributors
-
-    - Hosein Heidarifatasmi
+**Contributors**
+- *Hosein Heidarifatasmi* (creator and holder of the repository)
