@@ -9,4 +9,4 @@ A sample Cmake instruction file (CMakeLists.txt) is provided for the users using
 
 ** Contributors
 
-    -Hosein Heidarifatasmi
+    - Hosein Heidarifatasmi
