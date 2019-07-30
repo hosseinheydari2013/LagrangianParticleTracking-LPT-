@@ -6,3 +6,7 @@ Currently, it has only solidBodyRotation implemented. The numerical integration 
 Note that SFML libraries are not added into this repo because I was not sure whether I can do it or not due to licensing issues. However, information on pre-compiled/source code versions of SFML can be found in "https://www.sfml-dev.org/download.php"
 
 A sample Cmake instruction file (CMakeLists.txt) is provided for the users using it already. 
+
+** Contributors
+
+    -Hosein Heidarifatasmi
